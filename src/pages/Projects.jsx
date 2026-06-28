@@ -3,6 +3,7 @@ import { ScrollAnimation } from "@/components/ScrollAnimation";
 import Project1 from "../assets/projects_img/Project1.png";
 import project2 from "../assets/projects_img/Food-menu.png";
 import project3 from "../assets/projects_img/Expense-tracker.png";
+import project4 from "../assets/projects_img/portfolio-preview.png";
 
 const projects = [
   {
@@ -49,6 +50,26 @@ const projects = [
       "JavaScript",
       "UI/UX Design",
       "State Management",
+    ],
+  },
+  {
+    title: "Student Portfolio",
+    description:
+      "A highly interactive and visually stunning personal portfolio built with React and Tailwind CSS. Features dynamic page routing, glassmorphic UI components, smooth scroll transitions via Framer Motion, and a clean, responsive layout optimized for mobile and desktop screens.",
+    image: project4,
+    github: "https://github.com/yashwanthsaiks/Personal-portfolio",
+    live: "",
+    tags: [
+      "React",
+      "Three.js",
+      "Framer Motion",
+      "CSS",
+      "GLTF",
+      "Git",
+      "Vercel",
+      "Responsive Design",
+      "Tailwind CSS",
+      "GSAP"
     ],
   },
 ];

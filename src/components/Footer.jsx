@@ -108,7 +108,7 @@ const Footer = () => {
             <h3 className="text-sm font-semibold text-white">Social</h3>
             <div className="flex space-x-4">
               <a
-                href="https://github.com/niladri-1"
+                href="https://github.com/yashwanthsaiks"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-400 hover:text-white transition-colors"
@@ -117,7 +117,7 @@ const Footer = () => {
                 <Github className="w-5 h-5" aria-hidden="true" />
               </a>
               <a
-                href="https://linkedin.com/in/niladri1"
+                href="https://www.linkedin.com/in/yashwanth-sai-k-s-82a89a348/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-400 hover:text-white transition-colors"
@@ -126,7 +126,7 @@ const Footer = () => {
                 <Linkedin className="w-5 h-5" aria-hidden="true" />
               </a>
               <a
-                href="mailto:code.niladri@gmail.com"
+                href="mailto:yashwanth123ks@gmail.com"
                 className="text-gray-400 hover:text-white transition-colors"
                 aria-label="Email"
               >
